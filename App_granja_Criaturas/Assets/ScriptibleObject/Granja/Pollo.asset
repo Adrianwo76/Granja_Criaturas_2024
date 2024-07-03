@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6441f50764fd164cbaca563dce5ae32, type: 3}
+  m_Name: Pollo
+  m_EditorClassIdentifier: 
+  ItemName: Gallinita
+  ItemImage: {fileID: 21300000, guid: 1e7e02a64c895094ab5202f15fe38a5d, type: 3}
+  ItemDescription: Pio pio
+  Item3DModel: {fileID: 1455150825890479701, guid: a5c0904159453494481b22241896ee16, type: 3}
